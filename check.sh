@@ -1,4 +1,3 @@
-
 #!/bin/bash
 
 all_pass=1
